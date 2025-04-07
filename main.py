@@ -1,5 +1,3 @@
-from dotenv import load_dotenv
-load_dotenv()  # Load environment variables from .env file
 import os
 import sys
 import asyncio
@@ -41,7 +39,7 @@ def keep_alive():
 # Configuration & Constants
 # --------------------------
 TOKEN = os.getenv('DISCORD_TOKEN')  # Get token from environment variables
-DB_FILE = os.path.join(os.path.dirname(__file__), "guild_tracker.db")
+DB_FILE = "/var/lib/render/project/data/guild_tracker.db"
 CACHE_NAME = "aqw_cache"  # Requests cache name
 
 # Formatting
