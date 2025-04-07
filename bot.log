@@ -1,0 +1,846 @@
+2025-04-05 21:39:04,471 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-05 21:39:04,540 - discord.client - INFO - logging in using static token
+2025-04-05 21:39:04,553 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.71:8080
+2025-04-05 21:39:04,553 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 21:39:05,736 - werkzeug - INFO - 172.31.128.71 - - [05/Apr/2025 21:39:05] "GET / HTTP/1.1" 200 -
+2025-04-05 21:39:06,136 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 61ceb2fb7e5489a92f322034d646fba3).
+2025-04-05 21:39:08,338 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-05 21:39:08,338 - __main__ - INFO - Starting automatic guild check
+2025-04-05 21:39:08,339 - __main__ - INFO - Automatic check completed
+2025-04-05 21:41:10,838 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-05 21:41:10,907 - discord.client - INFO - logging in using static token
+2025-04-05 21:41:10,918 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.71:8080
+2025-04-05 21:41:10,919 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 21:41:12,462 - werkzeug - INFO - 172.31.128.71 - - [05/Apr/2025 21:41:12] "GET / HTTP/1.1" 200 -
+2025-04-05 21:41:12,575 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 92107093fee348f0b00989757d2a031c).
+2025-04-05 21:41:14,685 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-05 21:41:14,686 - __main__ - INFO - Starting automatic guild check
+2025-04-05 21:41:14,686 - __main__ - INFO - Automatic check completed
+2025-04-05 21:41:45,187 - __main__ - WARNING - Missing Send Messages permission in log channel 1354359518523428924
+2025-04-05 21:42:32,646 - __main__ - WARNING - Missing Send Messages permission in log channel 1354359518523428924
+2025-04-05 21:43:15,494 - __main__ - ERROR - Command error from khruz: Command "setting" is not found
+2025-04-06 05:00:16,334 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 05:00:16,496 - discord.client - INFO - logging in using static token
+2025-04-06 05:00:16,510 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 05:00:16,510 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:00:18,141 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d8d1d7d24e9ef23fa63ef95d8c06e498).
+2025-04-06 05:00:20,178 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 05:00:20,183 - __main__ - INFO - Starting automatic guild check
+2025-04-06 05:00:20,183 - __main__ - INFO - Automatic check completed
+2025-04-06 05:20:39,404 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 05:20:39,476 - discord.client - INFO - logging in using static token
+2025-04-06 05:20:39,489 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 05:20:39,489 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:20:40,797 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 05:20:40] "GET / HTTP/1.1" 200 -
+2025-04-06 05:20:41,228 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: facd89003d1dc32d5367c04b1b9d1a3f).
+2025-04-06 05:20:43,304 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 06:25:05,135 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 06:25:05,265 - discord.client - INFO - logging in using static token
+2025-04-06 06:25:05,284 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 06:25:05,284 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:25:06,611 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 06:25:06] "GET / HTTP/1.1" 200 -
+2025-04-06 06:25:06,867 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d9f31e3c9cb0975fe21f4a1d9c121646).
+2025-04-06 06:25:08,899 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 06:34:15,833 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 06:34:15,929 - discord.client - INFO - logging in using static token
+2025-04-06 06:34:15,947 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 06:34:15,947 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:34:16,782 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 06:34:16] "GET / HTTP/1.1" 200 -
+2025-04-06 06:34:17,351 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e25a2e92eb16ec6ac6a035f7b9ebf638).
+2025-04-06 06:34:19,462 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 06:36:45,104 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 06:36:45,224 - discord.client - INFO - logging in using static token
+2025-04-06 06:36:45,241 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 06:36:45,242 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:36:45,761 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 06:36:45] "GET / HTTP/1.1" 200 -
+2025-04-06 06:36:46,939 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2e88474a2f28dc4cfbc1d33a84ddc99a).
+2025-04-06 06:36:48,984 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 06:46:42,046 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 06:46:42,187 - discord.client - INFO - logging in using static token
+2025-04-06 06:46:42,223 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 06:46:42,223 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:46:43,135 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 06:46:43] "GET / HTTP/1.1" 200 -
+2025-04-06 06:46:43,701 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f8e9056ffc0ba9ef9c0b7aa6c0d14fc4).
+2025-04-06 06:46:45,960 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 06:52:22,953 - requests_cache.backends - DEBUG - Initializing backend: None aqw_cache
+2025-04-06 06:52:22,954 - requests_cache.backends.base - DEBUG - Initialized SQLiteDict with serializer: SerializerPipeline(name=pickle, n_stages=2)
+2025-04-06 06:52:22,954 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:responses
+2025-04-06 06:52:22,954 - requests_cache.backends.base - DEBUG - Initialized SQLiteDict with serializer: None
+2025-04-06 06:52:22,955 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:redirects
+2025-04-06 06:52:22,955 - requests_cache.patcher - DEBUG - Patching requests.Session with class: _ConfiguredCachedSession
+2025-04-06 06:52:22,956 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 06:52:22,957 - discord.client - DEBUG - on_command_error has successfully been registered as an event
+2025-04-06 06:52:22,957 - discord.client - DEBUG - on_ready has successfully been registered as an event
+2025-04-06 06:52:23,056 - asyncio - DEBUG - Using selector: EpollSelector
+2025-04-06 06:52:23,058 - discord.client - INFO - logging in using static token
+2025-04-06 06:52:23,067 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 06:52:23,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:52:24,028 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 06:52:24] "GET / HTTP/1.1" 200 -
+2025-04-06 06:52:24,638 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c70ce331c3f15bbe740e0e02747b58d0).
+2025-04-06 06:52:26,887 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 06:52:26,889 - __main__ - DEBUG - Task started at 06:52:26
+2025-04-06 06:52:26,889 - __main__ - DEBUG - Running continuous guild checks
+2025-04-06 06:52:26,890 - requests_cache.backends - DEBUG - Initializing backend: <SQLiteCache(name=aqw_cache)> aqw_cache
+2025-04-06 06:52:26,896 - requests_cache.policy.actions - DEBUG - Cache directives from request headers: CacheDirectives()
+2025-04-06 06:52:26,896 - requests_cache.policy.actions - DEBUG - Pre-read cache checks: Passed
+2025-04-06 06:52:26,900 - requests_cache.policy.actions - DEBUG - Post-read cache actions: CacheActions(expire_after=300, send_request=True)
+2025-04-06 06:52:26,900 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): account.aq.com:443
+2025-04-06 06:52:27,185 - urllib3.connectionpool - DEBUG - https://account.aq.com:443 "GET /CharPage?id=I0l HTTP/1.1" 200 None
+2025-04-06 06:52:27,187 - requests_cache.policy.actions - DEBUG - Pre-write cache checks: Passed
+2025-04-06 06:52:27,232 - requests_cache.backends.base - DEBUG - Closing backend connections
+2025-04-06 06:53:26,910 - __main__ - DEBUG - Running continuous guild checks
+2025-04-06 06:53:26,912 - requests_cache.backends - DEBUG - Initializing backend: <SQLiteCache(name=aqw_cache)> aqw_cache
+2025-04-06 06:53:26,914 - requests_cache.policy.actions - DEBUG - Cache directives from request headers: CacheDirectives()
+2025-04-06 06:53:26,914 - requests_cache.policy.actions - DEBUG - Pre-read cache checks: Passed
+2025-04-06 06:53:26,914 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:responses
+2025-04-06 06:53:26,915 - requests_cache.policy.actions - DEBUG - Post-read cache actions: CacheActions(expire_after=300, send_request=True)
+2025-04-06 06:53:26,915 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): account.aq.com:443
+2025-04-06 06:53:27,195 - urllib3.connectionpool - DEBUG - https://account.aq.com:443 "GET /CharPage?id=Ignios HTTP/1.1" 200 None
+2025-04-06 06:53:27,196 - requests_cache.policy.actions - DEBUG - Pre-write cache checks: Passed
+2025-04-06 06:53:27,285 - requests_cache.backends.base - DEBUG - Closing backend connections
+2025-04-06 06:53:27,322 - __main__ - DEBUG - Task finished after 60s
+2025-04-06 06:53:27,324 - __main__ - DEBUG - Task started at 06:53:27
+2025-04-06 06:54:26,891 - __main__ - DEBUG - Running continuous guild checks
+2025-04-06 06:54:26,892 - requests_cache.backends - DEBUG - Initializing backend: <SQLiteCache(name=aqw_cache)> aqw_cache
+2025-04-06 06:54:26,894 - requests_cache.policy.actions - DEBUG - Cache directives from request headers: CacheDirectives()
+2025-04-06 06:54:26,894 - requests_cache.policy.actions - DEBUG - Pre-read cache checks: Passed
+2025-04-06 06:54:26,894 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:responses
+2025-04-06 06:54:26,895 - requests_cache.policy.actions - DEBUG - Post-read cache actions: CacheActions(expire_after=300, send_request=True)
+2025-04-06 06:54:26,895 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): account.aq.com:443
+2025-04-06 06:54:27,170 - urllib3.connectionpool - DEBUG - https://account.aq.com:443 "GET /CharPage?id=Jailbizzle HTTP/1.1" 200 None
+2025-04-06 06:54:27,171 - requests_cache.policy.actions - DEBUG - Pre-write cache checks: Passed
+2025-04-06 06:54:27,241 - requests_cache.backends.base - DEBUG - Closing backend connections
+2025-04-06 06:54:27,325 - __main__ - DEBUG - Task finished after 60s
+2025-04-06 06:54:27,326 - __main__ - DEBUG - Task started at 06:54:27
+2025-04-06 06:55:26,889 - __main__ - DEBUG - Running continuous guild checks
+2025-04-06 06:55:26,891 - requests_cache.backends - DEBUG - Initializing backend: <SQLiteCache(name=aqw_cache)> aqw_cache
+2025-04-06 06:55:26,893 - requests_cache.policy.actions - DEBUG - Cache directives from request headers: CacheDirectives()
+2025-04-06 06:55:26,893 - requests_cache.policy.actions - DEBUG - Pre-read cache checks: Passed
+2025-04-06 06:55:26,893 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:responses
+2025-04-06 06:55:26,894 - requests_cache.policy.actions - DEBUG - Post-read cache actions: CacheActions(expire_after=300, send_request=True)
+2025-04-06 06:55:26,895 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): account.aq.com:443
+2025-04-06 06:55:27,167 - urllib3.connectionpool - DEBUG - https://account.aq.com:443 "GET /CharPage?id=Jankz HTTP/1.1" 200 None
+2025-04-06 06:55:27,169 - requests_cache.policy.actions - DEBUG - Pre-write cache checks: Passed
+2025-04-06 06:55:27,226 - requests_cache.backends.base - DEBUG - Closing backend connections
+2025-04-06 06:55:27,326 - __main__ - DEBUG - Task finished after 60s
+2025-04-06 06:55:27,327 - __main__ - DEBUG - Task started at 06:55:27
+2025-04-06 06:56:26,889 - __main__ - DEBUG - Running continuous guild checks
+2025-04-06 06:56:26,890 - requests_cache.backends - DEBUG - Initializing backend: <SQLiteCache(name=aqw_cache)> aqw_cache
+2025-04-06 06:56:26,892 - requests_cache.policy.actions - DEBUG - Cache directives from request headers: CacheDirectives()
+2025-04-06 06:56:26,892 - requests_cache.policy.actions - DEBUG - Pre-read cache checks: Passed
+2025-04-06 06:56:26,892 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:responses
+2025-04-06 06:56:26,893 - requests_cache.policy.actions - DEBUG - Post-read cache actions: CacheActions(expire_after=300, send_request=True)
+2025-04-06 06:56:26,893 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): account.aq.com:443
+2025-04-06 06:56:27,172 - urllib3.connectionpool - DEBUG - https://account.aq.com:443 "GET /CharPage?id=Joeismymom HTTP/1.1" 200 None
+2025-04-06 06:56:27,173 - requests_cache.policy.actions - DEBUG - Pre-write cache checks: Passed
+2025-04-06 06:56:27,231 - requests_cache.backends.base - DEBUG - Closing backend connections
+2025-04-06 06:56:27,327 - __main__ - DEBUG - Task finished after 60s
+2025-04-06 06:56:27,327 - __main__ - DEBUG - Task started at 06:56:27
+2025-04-06 07:00:12,880 - requests_cache.backends - DEBUG - Initializing backend: None aqw_cache
+2025-04-06 07:00:12,881 - requests_cache.backends.base - DEBUG - Initialized SQLiteDict with serializer: SerializerPipeline(name=pickle, n_stages=2)
+2025-04-06 07:00:12,881 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:responses
+2025-04-06 07:00:12,881 - requests_cache.backends.base - DEBUG - Initialized SQLiteDict with serializer: None
+2025-04-06 07:00:12,882 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:redirects
+2025-04-06 07:00:12,882 - requests_cache.patcher - DEBUG - Patching requests.Session with class: _ConfiguredCachedSession
+2025-04-06 07:00:12,883 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 07:00:12,886 - discord.client - DEBUG - on_command_error has successfully been registered as an event
+2025-04-06 07:00:12,886 - discord.client - DEBUG - on_ready has successfully been registered as an event
+2025-04-06 07:00:13,017 - asyncio - DEBUG - Using selector: EpollSelector
+2025-04-06 07:00:13,018 - discord.client - INFO - logging in using static token
+2025-04-06 07:00:13,032 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 07:00:13,032 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:00:13,826 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 07:00:13] "GET / HTTP/1.1" 200 -
+2025-04-06 07:00:14,561 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 103f6c86793b986126c08fb66e1bf1b6).
+2025-04-06 07:00:16,851 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 07:00:16,852 - discord.client - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/main.py", line 763, in on_ready
+    test_task.start()  # Add this line
+    ^^^^^^^^^
+NameError: name 'test_task' is not defined
+2025-04-06 07:01:54,009 - requests_cache.backends - DEBUG - Initializing backend: None aqw_cache
+2025-04-06 07:01:54,009 - requests_cache.backends.base - DEBUG - Initialized SQLiteDict with serializer: SerializerPipeline(name=pickle, n_stages=2)
+2025-04-06 07:01:54,010 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:responses
+2025-04-06 07:01:54,010 - requests_cache.backends.base - DEBUG - Initialized SQLiteDict with serializer: None
+2025-04-06 07:01:54,010 - requests_cache.backends.sqlite - DEBUG - Opening connection to /home/runner/workspace/aqw_cache.sqlite:redirects
+2025-04-06 07:01:54,011 - requests_cache.patcher - DEBUG - Patching requests.Session with class: _ConfiguredCachedSession
+2025-04-06 07:01:54,012 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 07:01:54,013 - discord.client - DEBUG - on_command_error has successfully been registered as an event
+2025-04-06 07:01:54,014 - discord.client - DEBUG - on_ready has successfully been registered as an event
+2025-04-06 07:01:54,117 - asyncio - DEBUG - Using selector: EpollSelector
+2025-04-06 07:01:54,118 - discord.client - INFO - logging in using static token
+2025-04-06 07:01:54,142 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 07:01:54,142 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:01:54,661 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 07:01:54] "GET / HTTP/1.1" 200 -
+2025-04-06 07:01:55,774 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f2c0cd1501044d7dfe50652cd374be36).
+2025-04-06 07:01:58,014 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 07:01:58,017 - __main__ - DEBUG - === Starting guild checks ===
+2025-04-06 07:02:08,026 - __main__ - DEBUG - Check cycle completed in 10.0s
+2025-04-06 07:03:58,058 - __main__ - DEBUG - === Starting guild checks ===
+2025-04-06 07:04:08,068 - __main__ - DEBUG - Check cycle completed in 10.0s
+2025-04-06 07:19:08,838 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 07:19:09,005 - discord.client - INFO - logging in using static token
+2025-04-06 07:19:09,047 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 07:19:09,047 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:19:10,144 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 07:19:10] "GET / HTTP/1.1" 200 -
+2025-04-06 07:19:11,147 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e57503143cdd945d0d4b28813562569c).
+2025-04-06 07:19:13,163 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 07:19:13,548 - __main__ - ERROR - Error checking yurk: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:14,067 - __main__ - ERROR - Error checking Qura: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:14,386 - __main__ - ERROR - Error checking mig: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:14,708 - __main__ - ERROR - Error checking pinki promise: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:15,012 - __main__ - ERROR - Error checking Loteras: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:15,949 - __main__ - ERROR - Error checking Y3n: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:16,248 - __main__ - ERROR - Error checking kvins carb: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:16,563 - __main__ - ERROR - Error checking pix: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:16,866 - __main__ - ERROR - Error checking Thelamyr: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:17,143 - __main__ - ERROR - Error checking Satanuel: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:19:17,143 - __main__ - ERROR - Guild check failed: Invalid format specifier '%H:%M:%S' for object of type 'float'
+2025-04-06 07:21:27,271 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 07:21:27,354 - discord.client - INFO - logging in using static token
+2025-04-06 07:21:27,365 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.22:8080
+2025-04-06 07:21:27,366 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:21:28,108 - werkzeug - INFO - 172.31.128.22 - - [06/Apr/2025 07:21:28] "GET / HTTP/1.1" 200 -
+2025-04-06 07:21:29,015 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: edde995e05d3cd204134fe1ad0f3dcee).
+2025-04-06 07:21:31,045 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 07:21:31,435 - __main__ - ERROR - Error checking yurk: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:31,739 - __main__ - ERROR - Error checking Qura: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:32,082 - __main__ - ERROR - Error checking mig: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:32,398 - __main__ - ERROR - Error checking pinki promise: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:32,688 - __main__ - ERROR - Error checking Loteras: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:32,980 - __main__ - ERROR - Error checking Y3n: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:33,870 - __main__ - ERROR - Error checking kvins carb: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:34,234 - __main__ - ERROR - Error checking pix: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:34,523 - __main__ - ERROR - Error checking Thelamyr: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:34,832 - __main__ - ERROR - Error checking Satanuel: type object 'Database' has no attribute 'update_last_checked'
+2025-04-06 07:21:34,832 - __main__ - ERROR - Guild check failed: Invalid format specifier '%H:%M:%S' for object of type 'float'
+2025-04-06 07:27:49,717 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 07:27:50,025 - discord.client - INFO - logging in using static token
+2025-04-06 07:27:50,065 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 07:27:50,065 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:27:50,839 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 07:27:50] "GET / HTTP/1.1" 200 -
+2025-04-06 07:27:51,637 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: eb6aebf09f16cc0877a6d2ff40a89de8).
+2025-04-06 07:27:53,751 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 07:29:37,621 - __main__ - INFO - Checked 10 members in 103.9s. Next check in 5 minutes
+2025-04-06 07:34:38,912 - __main__ - INFO - Checked 10 members in 105.2s. Next check in 5 minutes
+2025-04-06 07:35:41,284 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 07:35:41,458 - discord.client - INFO - logging in using static token
+2025-04-06 07:35:41,483 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 07:35:41,483 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:35:42,412 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 07:35:42] "GET / HTTP/1.1" 200 -
+2025-04-06 07:35:43,100 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0b6dc0203922593f4b690685648cda9d).
+2025-04-06 07:35:45,139 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 07:37:29,325 - __main__ - INFO - Checked 10 members in 104.2s. Next check in 5 minutes
+2025-04-06 07:39:30,061 - __main__ - INFO - Checked 10 members in 104.9s. Next check in 5 minutes
+2025-04-06 07:41:29,916 - __main__ - INFO - Checked 10 members in 104.8s. Next check in 5 minutes
+2025-04-06 07:42:22,962 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 07:42:23,054 - discord.client - INFO - logging in using static token
+2025-04-06 07:42:23,067 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 07:42:23,069 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:42:23,921 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 07:42:23] "GET / HTTP/1.1" 200 -
+2025-04-06 07:42:24,563 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 694c4d90b0a4f5741d556e0c814a73b8).
+2025-04-06 07:42:26,834 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 07:44:11,376 - __main__ - INFO - Checked 10 members in 104.5s. Next check in 1 minute
+2025-04-06 07:47:12,741 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 07:47:12,831 - discord.client - INFO - logging in using static token
+2025-04-06 07:47:12,841 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 07:47:12,841 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:47:13,254 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 07:47:13] "GET / HTTP/1.1" 200 -
+2025-04-06 07:47:14,328 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ffe2eb195de9b8101245e6dc45c1c655).
+2025-04-06 07:47:16,543 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 07:48:31,365 - __main__ - INFO - Checked 10 members in 74.8s. Next check in 1 minute
+2025-04-06 07:49:45,780 - __main__ - INFO - Checked 10 members in 74.4s. Next check in 1 minute
+2025-04-06 07:51:01,417 - __main__ - INFO - Checked 10 members in 75.6s. Next check in 1 minute
+2025-04-06 07:52:16,067 - __main__ - INFO - Checked 10 members in 74.6s. Next check in 1 minute
+2025-04-06 07:53:30,775 - __main__ - INFO - Checked 10 members in 74.7s. Next check in 1 minute
+2025-04-06 07:54:44,055 - __main__ - INFO - Checked 10 members in 73.3s. Next check in 1 minute
+2025-04-06 07:55:54,668 - __main__ - INFO - Checked 10 members in 70.6s. Next check in 1 minute
+2025-04-06 07:57:05,218 - __main__ - INFO - Checked 10 members in 70.5s. Next check in 1 minute
+2025-04-06 08:01:13,917 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 08:01:14,082 - discord.client - INFO - logging in using static token
+2025-04-06 08:01:14,108 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 08:01:14,108 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 08:01:15,380 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 08:01:15] "GET / HTTP/1.1" 200 -
+2025-04-06 08:01:15,717 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 36762478e41b23feb303e44c241c99a7).
+2025-04-06 08:01:17,862 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 08:02:38,276 - __main__ - INFO - Checked 15 members in 80.4s. Next check in 1 minute
+2025-04-06 08:03:58,938 - __main__ - INFO - Checked 15 members in 80.7s. Next check in 1 minute
+2025-04-06 08:05:20,619 - __main__ - INFO - Checked 15 members in 81.3s. Next check in 1 minute
+2025-04-06 08:06:43,483 - __main__ - INFO - Checked 15 members in 82.9s. Next check in 1 minute
+2025-04-06 08:08:05,272 - __main__ - INFO - Checked 15 members in 81.8s. Next check in 1 minute
+2025-04-06 08:09:22,796 - __main__ - INFO - Checked 15 members in 77.5s. Next check in 1 minute
+2025-04-06 08:10:00,496 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 08:10:00,630 - discord.client - INFO - logging in using static token
+2025-04-06 08:10:00,653 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 08:10:00,653 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 08:10:01,609 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 08:10:01] "GET / HTTP/1.1" 200 -
+2025-04-06 08:10:02,118 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f21a49814dea76d10420e149be291f99).
+2025-04-06 08:10:04,389 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 08:12:37,448 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 08:12:37,573 - discord.client - INFO - logging in using static token
+2025-04-06 08:12:37,584 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 08:12:37,584 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 08:12:38,135 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 08:12:38] "GET / HTTP/1.1" 200 -
+2025-04-06 08:12:39,324 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c2a1c2b3341209ba815844a4abca79ee).
+2025-04-06 08:12:41,428 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 08:13:52,894 - __main__ - INFO - Checked 13 members in 71.5s. Next check in 1 minute
+2025-04-06 08:14:17,691 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 08:14:17,862 - discord.client - INFO - logging in using static token
+2025-04-06 08:14:17,886 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 08:14:17,887 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 08:14:18,426 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 08:14:18] "GET / HTTP/1.1" 200 -
+2025-04-06 08:14:19,398 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 396f2146b94045f4aea39e993602ed2a).
+2025-04-06 08:14:21,423 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 08:15:04,870 - __main__ - INFO - Checked 8 members in 43.4s. Next check in 1 minute
+2025-04-06 08:16:04,365 - __main__ - INFO - Checked 8 members in 42.9s. Next check in 1 minute
+2025-04-06 08:16:37,212 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 08:16:37,305 - discord.client - INFO - logging in using static token
+2025-04-06 08:16:37,333 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 08:16:37,333 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 08:16:37,829 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 08:16:37] "GET / HTTP/1.1" 200 -
+2025-04-06 08:16:38,961 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2ef92e4a20045c3b3160760a39ba55e5).
+2025-04-06 08:16:41,078 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 08:17:35,243 - __main__ - INFO - Checked 10 members in 54.2s. Next check in 1 minute
+2025-04-06 08:18:17,930 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 08:18:18,168 - discord.client - INFO - logging in using static token
+2025-04-06 08:18:18,187 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 08:18:18,187 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 08:18:18,737 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 08:18:18] "GET / HTTP/1.1" 200 -
+2025-04-06 08:18:19,763 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 537fb6cb536b79fdd2958808617a1152).
+2025-04-06 08:18:22,020 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 08:19:21,683 - __main__ - INFO - Checked 11 members in 59.7s. Next check in 1 minute
+2025-04-06 08:20:21,939 - __main__ - INFO - Checked 11 members in 59.9s. Next check in 1 minute
+2025-04-06 08:21:21,674 - __main__ - INFO - Checked 11 members in 59.6s. Next check in 1 minute
+2025-04-06 08:22:22,048 - __main__ - INFO - Checked 11 members in 60.0s. Next check in 1 minute
+2025-04-06 08:23:21,729 - __main__ - INFO - Checked 11 members in 59.7s. Next check in 1 minute
+2025-04-06 08:24:21,612 - __main__ - INFO - Checked 11 members in 59.6s. Next check in 1 minute
+2025-04-06 08:25:22,206 - __main__ - INFO - Checked 11 members in 60.2s. Next check in 1 minute
+2025-04-06 08:26:16,964 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 08:28:17,322 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 08:28:17,483 - discord.client - INFO - logging in using static token
+2025-04-06 08:28:17,507 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.47:8080
+2025-04-06 08:28:17,508 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 08:28:18,650 - werkzeug - INFO - 172.31.128.47 - - [06/Apr/2025 08:28:18] "GET / HTTP/1.1" 200 -
+2025-04-06 08:28:19,033 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c5ed61b5134b31279ef33e329f85f6b4).
+2025-04-06 08:28:21,330 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 08:29:26,740 - __main__ - INFO - Processed 15 members (15 successful) in 65.4s
+2025-04-06 08:31:27,046 - __main__ - INFO - Processed 15 members (15 successful) in 65.7s
+2025-04-06 08:33:28,201 - __main__ - INFO - Processed 15 members (15 successful) in 66.8s
+2025-04-06 08:35:26,592 - __main__ - INFO - Processed 15 members (15 successful) in 65.3s
+2025-04-06 08:37:26,482 - __main__ - INFO - Processed 15 members (15 successful) in 65.1s
+2025-04-06 08:39:28,669 - __main__ - INFO - Processed 15 members (15 successful) in 67.3s
+2025-04-06 08:41:24,021 - __main__ - INFO - Processed 15 members (15 successful) in 62.7s
+2025-04-06 08:43:22,086 - __main__ - INFO - Processed 15 members (15 successful) in 60.7s
+2025-04-06 08:45:21,205 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358318818212057180 responded with 429. Retrying in 4.92 seconds.
+2025-04-06 08:45:26,606 - __main__ - INFO - Processed 15 members (15 successful) in 65.3s
+2025-04-06 08:47:22,047 - __main__ - INFO - Processed 15 members (15 successful) in 60.7s
+2025-04-06 08:49:22,795 - __main__ - INFO - Processed 15 members (15 successful) in 61.5s
+2025-04-06 08:51:24,041 - __main__ - INFO - Processed 15 members (15 successful) in 62.7s
+2025-04-06 08:53:23,266 - __main__ - INFO - Processed 15 members (15 successful) in 61.9s
+2025-04-06 08:55:22,990 - __main__ - INFO - Processed 15 members (15 successful) in 61.7s
+2025-04-06 08:57:24,025 - __main__ - INFO - Processed 15 members (15 successful) in 62.7s
+2025-04-06 08:59:23,244 - __main__ - INFO - Processed 15 members (15 successful) in 61.9s
+2025-04-06 09:01:22,907 - __main__ - INFO - Processed 15 members (15 successful) in 61.6s
+2025-04-06 09:03:23,211 - __main__ - INFO - Processed 15 members (15 successful) in 61.9s
+2025-04-06 09:05:23,180 - __main__ - INFO - Processed 15 members (15 successful) in 61.8s
+2025-04-06 09:07:22,889 - __main__ - INFO - Processed 15 members (15 successful) in 61.5s
+2025-04-06 09:09:22,979 - __main__ - INFO - Processed 15 members (15 successful) in 61.6s
+2025-04-06 09:11:22,804 - __main__ - INFO - Processed 15 members (15 successful) in 61.5s
+2025-04-06 09:13:22,895 - __main__ - INFO - Processed 15 members (15 successful) in 61.6s
+2025-04-06 09:13:53,507 - discord.gateway - INFO - Shard ID None has successfully RESUMED session c5ed61b5134b31279ef33e329f85f6b4.
+2025-04-06 09:15:22,963 - __main__ - INFO - Processed 15 members (15 successful) in 61.6s
+2025-04-06 09:17:22,708 - __main__ - INFO - Processed 15 members (15 successful) in 61.4s
+2025-04-06 09:19:23,031 - __main__ - INFO - Processed 15 members (15 successful) in 61.7s
+2025-04-06 09:21:22,911 - __main__ - INFO - Processed 15 members (15 successful) in 61.6s
+2025-04-06 09:23:23,159 - __main__ - INFO - Processed 15 members (15 successful) in 61.8s
+2025-04-06 09:25:23,473 - __main__ - INFO - Processed 15 members (15 successful) in 62.1s
+2025-04-06 09:27:23,284 - __main__ - INFO - Processed 15 members (15 successful) in 61.9s
+2025-04-06 09:29:23,139 - __main__ - INFO - Processed 15 members (15 successful) in 61.8s
+2025-04-06 09:31:23,207 - __main__ - INFO - Processed 15 members (15 successful) in 61.8s
+2025-04-06 09:33:22,957 - __main__ - INFO - Processed 15 members (15 successful) in 61.6s
+2025-04-06 09:45:56,296 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 09:45:56,526 - discord.client - INFO - logging in using static token
+2025-04-06 09:45:56,544 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 09:45:56,544 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 09:45:57,513 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 09:45:57] "GET / HTTP/1.1" 200 -
+2025-04-06 09:45:58,001 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d835e9737293b273c328f3c30588202c).
+2025-04-06 09:46:00,103 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 09:46:03,339 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358360607635804171 responded with 429. Retrying in 3.74 seconds.
+2025-04-06 09:47:06,886 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358360607635804171 responded with 429. Retrying in 3.49 seconds.
+2025-04-06 09:47:11,688 - __main__ - INFO - Processed 15 members (15 successful) in 71.6s
+2025-04-06 09:49:07,467 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358360607635804171 responded with 429. Retrying in 3.66 seconds.
+2025-04-06 09:49:12,407 - __main__ - INFO - Processed 15 members (15 successful) in 72.3s
+2025-04-06 09:51:08,278 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358360607635804171 responded with 429. Retrying in 3.42 seconds.
+2025-04-06 09:51:12,950 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358363310424330370 responded with 429. Retrying in 4.75 seconds.
+2025-04-06 09:51:18,192 - __main__ - INFO - Processed 15 members (15 successful) in 78.1s
+2025-04-06 09:53:09,241 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358360607635804171 responded with 429. Retrying in 3.42 seconds.
+2025-04-06 09:53:13,836 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358363310424330370 responded with 429. Retrying in 4.82 seconds.
+2025-04-06 10:05:27,711 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 10:05:27,986 - discord.client - INFO - logging in using static token
+2025-04-06 10:05:28,027 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 10:05:28,027 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 10:05:29,040 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 10:05:29] "GET / HTTP/1.1" 200 -
+2025-04-06 10:05:29,835 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6d448cf4b2bc6457c640d26f591b97d6).
+2025-04-06 10:05:31,841 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 10:05:35,627 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358360607635804171 responded with 429. Retrying in 3.65 seconds.
+2025-04-06 10:05:40,734 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358363310424330370 responded with 429. Retrying in 4.54 seconds.
+2025-04-06 10:06:40,715 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358360607635804171 responded with 429. Retrying in 3.64 seconds.
+2025-04-06 10:06:45,597 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358363310424330370 responded with 429. Retrying in 4.75 seconds.
+2025-04-06 10:06:50,860 - __main__ - INFO - Processed 15 members (15 successful) in 78.4s
+2025-04-06 10:17:59,719 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 10:17:59,995 - discord.client - INFO - logging in using static token
+2025-04-06 10:18:00,066 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 10:18:00,066 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 10:18:01,211 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 10:18:01] "GET / HTTP/1.1" 200 -
+2025-04-06 10:18:01,580 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bff0bb64b3f73d0f6b6ac1c7ca632760).
+2025-04-06 10:18:03,609 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 10:19:22,005 - __main__ - INFO - Processed 15 members (15 successful) in 78.3s
+2025-04-06 10:21:23,439 - __main__ - INFO - Processed 15 members (15 successful) in 79.8s
+2025-04-06 10:23:20,474 - __main__ - INFO - Processed 15 members (15 successful) in 76.8s
+2025-04-06 10:25:25,568 - __main__ - INFO - Processed 15 members (15 successful) in 81.9s
+2025-04-06 10:27:20,962 - __main__ - INFO - Processed 15 members (15 successful) in 77.3s
+2025-04-06 10:29:22,044 - __main__ - INFO - Processed 15 members (15 successful) in 78.4s
+2025-04-06 10:31:21,015 - __main__ - INFO - Processed 15 members (15 successful) in 77.4s
+2025-04-06 10:33:22,048 - __main__ - INFO - Processed 15 members (15 successful) in 78.4s
+2025-04-06 10:33:50,704 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 10:33:50,901 - discord.client - INFO - logging in using static token
+2025-04-06 10:33:50,943 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 10:33:50,943 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 10:33:52,796 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1c0a837001d1bf3dc0782fa05537f724).
+2025-04-06 10:33:53,490 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 10:33:53] "GET / HTTP/1.1" 200 -
+2025-04-06 10:33:54,898 - __main__ - INFO - Auto-restart monitor initialized (checks hourly)
+2025-04-06 10:35:35,968 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 10:35:36,062 - discord.client - INFO - logging in using static token
+2025-04-06 10:35:36,080 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 10:35:36,080 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 10:35:36,779 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 10:35:36] "GET / HTTP/1.1" 200 -
+2025-04-06 10:35:37,562 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e063fa7536cad5d7176475c9c1b4c601).
+2025-04-06 10:35:39,604 - __main__ - INFO - Auto-restart monitor initialized (checks hourly)
+2025-04-06 10:36:11,133 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 10:36:11,355 - discord.client - INFO - logging in using static token
+2025-04-06 10:36:11,415 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 10:36:11,418 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 10:36:11,956 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 10:36:11] "GET / HTTP/1.1" 200 -
+2025-04-06 10:36:12,909 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d0dbbfdc7377f05c8b5c84b735a08429).
+2025-04-06 10:36:15,008 - __main__ - INFO - Auto-restart monitor initialized (checks hourly)
+2025-04-06 10:42:23,869 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 10:42:23,963 - discord.client - INFO - logging in using static token
+2025-04-06 10:42:23,975 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 10:42:23,975 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 10:42:24,817 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 10:42:24] "GET / HTTP/1.1" 200 -
+2025-04-06 10:42:25,428 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 21101070de30e3872ea9c22186e86708).
+2025-04-06 10:42:27,445 - __main__ - INFO - Flask keep-alive server started on port 8080
+2025-04-06 10:42:55,597 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 10:42:55,676 - discord.client - INFO - logging in using static token
+2025-04-06 10:42:55,697 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 10:42:55,697 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 10:42:56,168 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 10:42:56] "GET / HTTP/1.1" 200 -
+2025-04-06 10:42:57,173 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 38e22c3c18ab5ac48b17534ba9c0d33c).
+2025-04-06 10:42:59,461 - __main__ - INFO - Auto-restart monitor initialized (checks hourly)
+2025-04-06 11:20:32,363 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 11:20:32,569 - discord.client - INFO - logging in using static token
+2025-04-06 11:20:32,597 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.115:8080
+2025-04-06 11:20:32,598 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 11:20:33,508 - werkzeug - INFO - 172.31.128.115 - - [06/Apr/2025 11:20:33] "GET / HTTP/1.1" 200 -
+2025-04-06 11:20:34,138 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7320d4464b762a46f898ae91fe4cb370).
+2025-04-06 11:20:36,381 - __main__ - INFO - Auto-restart monitor initialized (checks hourly)
+2025-04-06 11:57:39,222 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 11:57:39,226 - discord.client - INFO - logging in using static token
+2025-04-06 11:57:39,242 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 11:57:39,242 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 11:57:40,530 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 11:57:40] "GET / HTTP/1.1" 200 -
+2025-04-06 11:57:40,824 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c4072740a70b64b6f679a78cee3b4f34).
+2025-04-06 11:57:42,930 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 11:59:00,532 - __main__ - INFO - Processed 15 members (15 successful) in 77.5s
+2025-04-06 12:00:53,581 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 12:00:53,585 - discord.client - INFO - logging in using static token
+2025-04-06 12:00:53,599 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 12:00:53,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 12:00:54,145 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 12:00:54] "GET / HTTP/1.1" 200 -
+2025-04-06 12:00:55,133 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9a91373596cf63968682d30a7290fda7).
+2025-04-06 12:00:57,175 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 12:01:44,758 - __main__ - ERROR - Command error from khruz: Command "crash" is not found
+2025-04-06 12:02:14,318 - __main__ - INFO - Processed 15 members (15 successful) in 77.0s
+2025-04-06 12:04:18,945 - __main__ - INFO - Processed 15 members (15 successful) in 81.7s
+2025-04-06 12:16:28,969 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 12:16:28,978 - discord.client - INFO - logging in using static token
+2025-04-06 12:16:29,028 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 12:16:29,029 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 12:16:30,058 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 12:16:30] "GET / HTTP/1.1" 200 -
+2025-04-06 12:16:30,604 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5f018e11a7194208718678f8aa3b10c4).
+2025-04-06 12:16:32,685 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 12:16:32,685 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 12:17:51,833 - __main__ - INFO - Processed 15 members (15 successful) in 79.1s
+2025-04-06 12:19:50,799 - __main__ - INFO - Processed 15 members (15 successful) in 78.1s
+2025-04-06 12:21:50,129 - __main__ - INFO - Processed 15 members (15 successful) in 77.4s
+2025-04-06 12:23:49,601 - __main__ - INFO - Processed 15 members (15 successful) in 76.9s
+2025-04-06 12:25:51,206 - __main__ - INFO - Processed 15 members (15 successful) in 78.5s
+2025-04-06 12:27:49,944 - __main__ - INFO - Processed 15 members (15 successful) in 77.2s
+2025-04-06 12:29:51,291 - __main__ - INFO - Processed 15 members (15 successful) in 78.6s
+2025-04-06 12:31:49,841 - __main__ - INFO - Processed 15 members (15 successful) in 77.1s
+2025-04-06 12:33:50,760 - __main__ - INFO - Processed 15 members (15 successful) in 78.1s
+2025-04-06 12:35:50,780 - __main__ - INFO - Processed 15 members (15 successful) in 78.1s
+2025-04-06 12:37:53,192 - __main__ - INFO - Processed 15 members (15 successful) in 80.5s
+2025-04-06 12:39:50,104 - __main__ - INFO - Processed 15 members (15 successful) in 77.4s
+2025-04-06 12:41:48,770 - __main__ - INFO - Processed 15 members (15 successful) in 76.1s
+2025-04-06 12:42:05,903 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 12:42:05,906 - discord.client - INFO - logging in using static token
+2025-04-06 12:42:05,930 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 12:42:05,931 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 12:42:06,842 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 12:42:06] "GET / HTTP/1.1" 200 -
+2025-04-06 12:42:07,523 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c81ecedf60d359a0e2501672aff10da5).
+2025-04-06 12:42:09,632 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 12:42:09,632 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 12:42:09,836 - __main__ - WARNING - Check paused for 5s (Error on Ignios: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:14,838 - __main__ - WARNING - Check paused for 5s (Error on Boor: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:19,840 - __main__ - WARNING - Check paused for 5s (Error on Jailbizzle: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:24,842 - __main__ - WARNING - Check paused for 5s (Error on Ninjaz: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:29,847 - __main__ - WARNING - Check paused for 5s (Error on Mystic: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:34,189 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 12:42:34,195 - discord.client - INFO - logging in using static token
+2025-04-06 12:42:34,203 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 12:42:34,203 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 12:42:34,733 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 12:42:34] "GET / HTTP/1.1" 200 -
+2025-04-06 12:42:35,723 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2b2c3b6c118ab57ff9d2e899b6aa5a94).
+2025-04-06 12:42:37,825 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 12:42:37,825 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 12:42:38,048 - __main__ - WARNING - Check paused for 5s (Error on Ignios: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:43,050 - __main__ - WARNING - Check paused for 5s (Error on Boor: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:48,051 - __main__ - WARNING - Check paused for 5s (Error on Jailbizzle: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:51,989 - discord.http - WARNING - We are being rate limited. PATCH https://discord.com/api/v10/channels/1358100875536760872/messages/1358363310424330370 responded with 429. Retrying in 0.39 seconds.
+2025-04-06 12:42:53,052 - __main__ - WARNING - Check paused for 5s (Error on Ninjaz: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:42:58,057 - __main__ - WARNING - Check paused for 5s (Error on Mystic: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:03,062 - __main__ - WARNING - Check paused for 5s (Error on Ock: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:08,065 - __main__ - WARNING - Check paused for 5s (Error on Vlux: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:13,071 - __main__ - WARNING - Check paused for 5s (Error on Jankz: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:18,073 - __main__ - WARNING - Check paused for 5s (Error on homa05: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:23,076 - __main__ - WARNING - Check paused for 5s (Error on VICN_: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:28,081 - __main__ - WARNING - Check paused for 5s (Error on Joeismymom: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:33,087 - __main__ - WARNING - Check paused for 5s (Error on Evasive: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:38,090 - __main__ - WARNING - Check paused for 5s (Error on yurk: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:39,368 - __main__ - ERROR - Command error from khruz: Command raised an exception: AttributeError: 'Context' object has no attribute 'trigger_typing'
+2025-04-06 12:43:43,095 - __main__ - WARNING - Check paused for 5s (Error on wammy123: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:48,100 - __main__ - WARNING - Check paused for 5s (Error on Hijabi: type object 'AQWUtils' has no attribute 'check_aqw_guild')
+2025-04-06 12:43:53,106 - __main__ - INFO - Processed 0 members (0 successful) in 75.1s
+2025-04-06 12:48:08,072 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 12:48:08,075 - discord.client - INFO - logging in using static token
+2025-04-06 12:48:08,087 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 12:48:08,087 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 12:48:09,173 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 12:48:09] "GET / HTTP/1.1" 200 -
+2025-04-06 12:48:09,671 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4b16bcc0fe89ec9457c224678d1d10a0).
+2025-04-06 12:48:11,691 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 12:48:11,691 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 12:49:29,638 - __main__ - INFO - Processed 15 members (15 successful) in 77.3s
+2025-04-06 12:51:29,494 - __main__ - INFO - Processed 15 members (15 successful) in 77.8s
+2025-04-06 12:53:29,837 - __main__ - INFO - Processed 15 members (15 successful) in 78.1s
+2025-04-06 12:55:30,544 - __main__ - INFO - Processed 15 members (15 successful) in 78.8s
+2025-04-06 12:57:28,832 - __main__ - INFO - Processed 15 members (15 successful) in 77.1s
+2025-04-06 12:59:29,932 - __main__ - INFO - Processed 15 members (15 successful) in 78.2s
+2025-04-06 13:01:30,806 - __main__ - INFO - Processed 15 members (15 successful) in 79.1s
+2025-04-06 13:03:30,109 - __main__ - INFO - Processed 15 members (15 successful) in 78.4s
+2025-04-06 13:38:33,061 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 13:38:33,065 - discord.client - INFO - logging in using static token
+2025-04-06 13:38:33,102 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 13:38:33,102 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 13:38:34,041 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 13:38:34] "GET / HTTP/1.1" 200 -
+2025-04-06 13:38:34,734 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9d5f70e680cdfa8ba36286e235b4122f).
+2025-04-06 13:38:36,943 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 13:38:36,943 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 13:39:02,149 - __main__ - ERROR - Command error from khruz: Command "id" is not found
+2025-04-06 13:39:54,963 - __main__ - INFO - Processed 15 members (15 successful) in 77.9s
+2025-04-06 13:40:12,772 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 13:40:12,775 - discord.client - INFO - logging in using static token
+2025-04-06 13:40:12,790 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 13:40:12,790 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 13:40:13,535 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 13:40:13] "GET / HTTP/1.1" 200 -
+2025-04-06 13:40:14,458 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 03918f670ce77597b03690d0ac68c42b).
+2025-04-06 13:40:16,650 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 13:40:16,650 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 13:40:25,407 - __main__ - ERROR - Command error from khruz: Command "id" is not found
+2025-04-06 13:41:34,474 - __main__ - INFO - Processed 15 members (15 successful) in 77.7s
+2025-04-06 13:43:33,844 - __main__ - INFO - Processed 15 members (15 successful) in 77.2s
+2025-04-06 13:45:34,153 - __main__ - INFO - Processed 15 members (15 successful) in 77.5s
+2025-04-06 13:47:33,687 - __main__ - INFO - Processed 15 members (15 successful) in 77.0s
+2025-04-06 13:48:20,740 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 13:48:20,742 - discord.client - INFO - logging in using static token
+2025-04-06 13:48:20,764 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 13:48:20,764 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 13:48:21,768 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 13:48:21] "GET / HTTP/1.1" 200 -
+2025-04-06 13:48:22,293 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ff9648acd1da2e3673b6127e68baed67).
+2025-04-06 13:48:24,391 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 13:48:24,391 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 13:48:39,141 - __main__ - ERROR - Command error from khruz: Command raised an exception: AttributeError: 'Context' object has no attribute 'trigger_typing'
+2025-04-06 13:49:40,972 - __main__ - INFO - Processed 15 members (15 successful) in 76.5s
+2025-04-06 13:51:52,166 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 13:51:52,169 - discord.client - INFO - logging in using static token
+2025-04-06 13:51:52,181 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 13:51:52,181 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 13:51:53,237 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 13:51:53] "GET / HTTP/1.1" 200 -
+2025-04-06 13:51:53,704 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d9ad63d5a006a57a76bab52d44758d9c).
+2025-04-06 13:51:55,917 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 13:51:55,917 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 13:52:15,850 - __main__ - ERROR - ID lookup failed for Satanuel: invalid literal for int() with base 10: 'Satanuel'
+2025-04-06 13:52:30,075 - __main__ - ERROR - ID lookup failed for Raymond: invalid literal for int() with base 10: 'Raymond'
+2025-04-06 13:53:13,199 - __main__ - INFO - Processed 15 members (15 successful) in 77.2s
+2025-04-06 13:55:13,539 - __main__ - INFO - Processed 15 members (15 successful) in 77.6s
+2025-04-06 14:00:27,572 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 14:00:27,574 - discord.client - INFO - logging in using static token
+2025-04-06 14:00:27,598 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 14:00:27,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:00:28,623 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 14:00:28] "GET / HTTP/1.1" 200 -
+2025-04-06 14:00:29,266 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b871227a46c89c5e359852d212cef34b).
+2025-04-06 14:00:31,393 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 14:00:31,393 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 14:00:43,871 - __main__ - ERROR - Command error from khruz: Command "id" is not found
+2025-04-06 14:01:49,269 - __main__ - INFO - Processed 15 members (15 successful) in 77.8s
+2025-04-06 14:03:49,882 - __main__ - INFO - Processed 15 members (15 successful) in 78.5s
+2025-04-06 14:07:18,703 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 14:07:18,708 - discord.client - INFO - logging in using static token
+2025-04-06 14:07:18,749 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 14:07:18,749 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:07:20,117 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 14:07:20] "GET / HTTP/1.1" 200 -
+2025-04-06 14:07:20,206 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fa86ffd6fa8de2baab545924f38be5c0).
+2025-04-06 14:07:22,302 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 14:07:22,302 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 14:07:51,463 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 14:07:51,466 - discord.client - INFO - logging in using static token
+2025-04-06 14:07:51,482 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 14:07:51,482 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:07:52,154 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 14:07:52] "GET / HTTP/1.1" 200 -
+2025-04-06 14:07:52,998 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5ab21b57a46aed3bd4edb483947d62ac).
+2025-04-06 14:07:55,211 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 14:07:55,211 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 14:08:06,858 - __main__ - ERROR - Command error from khruz: Command "satanuel" is not found
+2025-04-06 14:09:13,360 - __main__ - INFO - Processed 15 members (15 successful) in 78.0s
+2025-04-06 14:12:46,036 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 14:12:46,039 - discord.client - INFO - logging in using static token
+2025-04-06 14:12:46,052 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 14:12:46,052 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:12:46,975 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 14:12:46] "GET / HTTP/1.1" 200 -
+2025-04-06 14:12:47,592 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6ac00211e79579dcc528964f2143ef7a).
+2025-04-06 14:12:49,607 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 14:12:49,610 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 14:17:32,841 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 14:17:32,847 - discord.client - INFO - logging in using static token
+2025-04-06 14:17:32,858 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 14:17:32,858 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:17:33,558 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 14:17:33] "GET / HTTP/1.1" 200 -
+2025-04-06 14:17:34,577 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 984b1ca5f2d557fda9a273500fe3dbcf).
+2025-04-06 14:17:36,901 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 14:17:36,901 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 14:17:47,179 - __main__ - WARNING - No ID found for Satanuel in page source
+2025-04-06 14:18:33,451 - __main__ - WARNING - No ID found for Raymond in page source
+2025-04-06 14:18:57,406 - __main__ - INFO - Processed 15 members (15 successful) in 80.3s
+2025-04-06 14:20:55,828 - __main__ - INFO - Processed 15 members (15 successful) in 78.9s
+2025-04-06 14:22:55,749 - __main__ - INFO - Processed 15 members (15 successful) in 78.8s
+2025-04-06 14:24:55,678 - __main__ - INFO - Processed 15 members (15 successful) in 78.7s
+2025-04-06 14:26:54,341 - __main__ - INFO - Processed 15 members (15 successful) in 77.4s
+2025-04-06 14:28:56,249 - __main__ - INFO - Processed 15 members (15 successful) in 79.3s
+2025-04-06 14:30:57,043 - __main__ - INFO - Processed 15 members (15 successful) in 80.1s
+2025-04-06 14:32:55,754 - __main__ - INFO - Processed 15 members (15 successful) in 78.8s
+2025-04-06 14:34:55,989 - __main__ - INFO - Processed 15 members (15 successful) in 79.1s
+2025-04-06 14:36:54,616 - __main__ - INFO - Processed 15 members (15 successful) in 77.7s
+2025-04-06 14:38:57,048 - __main__ - INFO - Processed 15 members (15 successful) in 80.1s
+2025-04-06 14:40:54,955 - __main__ - INFO - Processed 15 members (15 successful) in 78.0s
+2025-04-06 14:42:53,306 - __main__ - INFO - Processed 15 members (15 successful) in 76.4s
+2025-04-06 14:44:48,873 - __main__ - INFO - Processed 15 members (15 successful) in 71.9s
+2025-04-06 14:46:48,743 - __main__ - INFO - Processed 15 members (15 successful) in 71.8s
+2025-04-06 14:48:49,004 - __main__ - INFO - Processed 15 members (15 successful) in 72.1s
+2025-04-06 14:50:48,718 - __main__ - INFO - Processed 15 members (15 successful) in 71.8s
+2025-04-06 14:52:48,827 - __main__ - INFO - Processed 15 members (15 successful) in 71.9s
+2025-04-06 14:54:46,615 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 14:54:46,618 - discord.client - INFO - logging in using static token
+2025-04-06 14:54:46,644 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 14:54:46,644 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:54:47,597 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 14:54:47] "GET / HTTP/1.1" 200 -
+2025-04-06 14:54:48,192 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8283e79b021212ecb2977ee641f0c608).
+2025-04-06 14:54:50,296 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 14:54:50,296 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 14:59:40,510 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 14:59:40,512 - discord.client - INFO - logging in using static token
+2025-04-06 14:59:40,532 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.130:8080
+2025-04-06 14:59:40,532 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:59:41,506 - werkzeug - INFO - 172.31.128.130 - - [06/Apr/2025 14:59:41] "GET / HTTP/1.1" 200 -
+2025-04-06 14:59:43,855 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 298b75ec3260559fef5094627725cae3).
+2025-04-06 14:59:45,910 - __main__ - INFO - Logged in as Metatron#3806 (ID: 1357977902804897845)
+2025-04-06 14:59:45,910 - __main__ - INFO - 🔄 Auto-restart system activated (hourly checks)
+2025-04-06 15:01:04,554 - __main__ - INFO - Processed 15 members (15 successful) in 78.6s
+2025-04-06 15:03:03,369 - __main__ - INFO - Processed 15 members (15 successful) in 77.5s
+2025-04-06 15:05:04,577 - __main__ - INFO - Processed 15 members (15 successful) in 78.6s
+2025-04-06 15:07:04,319 - __main__ - INFO - Processed 15 members (15 successful) in 78.4s
+2025-04-06 15:09:03,034 - __main__ - INFO - Processed 15 members (15 successful) in 77.1s
+2025-04-06 15:09:47,192 - __main__ - ERROR - Command error from khruz: Command "ioda" is not found
+2025-04-06 15:11:03,866 - __main__ - INFO - Processed 15 members (15 successful) in 78.0s
+2025-04-06 15:13:04,783 - __main__ - INFO - Processed 15 members (15 successful) in 78.9s
+2025-04-06 15:15:10,896 - __main__ - INFO - Processed 15 members (15 successful) in 85.0s
+2025-04-06 15:17:05,642 - __main__ - INFO - Processed 15 members (15 successful) in 79.7s
+2025-04-06 15:19:04,010 - __main__ - INFO - Processed 15 members (15 successful) in 78.1s
+2025-04-06 15:21:03,465 - __main__ - INFO - Processed 15 members (15 successful) in 77.5s
+2025-04-06 15:23:04,570 - __main__ - INFO - Processed 15 members (15 successful) in 78.7s
+2025-04-06 15:25:04,757 - __main__ - INFO - Processed 15 members (15 successful) in 78.8s
+2025-04-06 15:26:58,910 - __main__ - INFO - Processed 15 members (15 successful) in 73.0s
+2025-04-06 15:28:57,888 - __main__ - INFO - Processed 15 members (15 successful) in 72.0s
+2025-04-06 15:30:57,942 - __main__ - INFO - Processed 15 members (15 successful) in 72.0s
+2025-04-06 15:32:58,216 - __main__ - INFO - Processed 15 members (15 successful) in 72.3s
+2025-04-06 15:34:57,994 - __main__ - INFO - Processed 15 members (15 successful) in 72.1s
+2025-04-06 15:36:57,892 - __main__ - INFO - Processed 15 members (15 successful) in 72.0s
+2025-04-06 15:38:57,997 - __main__ - INFO - Processed 15 members (15 successful) in 72.1s
+2025-04-06 15:40:58,952 - __main__ - INFO - Processed 15 members (15 successful) in 73.0s
+2025-04-06 15:42:58,198 - __main__ - INFO - Processed 15 members (15 successful) in 72.3s
+2025-04-06 15:44:59,238 - __main__ - INFO - Processed 15 members (15 successful) in 73.3s
+2025-04-06 15:47:00,364 - __main__ - INFO - Processed 15 members (15 successful) in 74.4s
+2025-04-06 15:48:57,773 - __main__ - INFO - Processed 15 members (15 successful) in 71.8s
+2025-04-06 15:50:57,929 - __main__ - INFO - Processed 15 members (15 successful) in 72.0s
+2025-04-06 15:52:57,901 - __main__ - INFO - Processed 15 members (15 successful) in 72.0s
