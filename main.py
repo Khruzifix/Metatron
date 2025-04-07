@@ -41,7 +41,7 @@ def keep_alive():
 # Configuration & Constants
 # --------------------------
 TOKEN = os.getenv('DISCORD_TOKEN')  # Get token from environment variables
-DB_FILE = "guild_tracker.db"  # SQLite database file
+DB_FILE = os.path.join(os.path.dirname(__file__), "guild_tracker.db")
 CACHE_NAME = "aqw_cache"  # Requests cache name
 
 # Formatting
