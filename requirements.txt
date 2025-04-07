@@ -1,5 +1,8 @@
-discord.py>=2.3.2
-requests
-lxml
-python-dotenv
-flask
+beautifulsoup4>=4.13.3
+discord.py>=2.5.2
+Flask>=3.1.0
+lxml>=5.3.1
+requests-cache>=1.2.1
+requests>=2.32.3
+psutil>=7.0.0
+python-dotenv>=1.0.0
