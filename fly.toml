@@ -1,0 +1,10 @@
+app = "Metatron"
+primary_region = "sin"
+
+[build]
+  [build.args]
+    NODE_ENV = "production"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
